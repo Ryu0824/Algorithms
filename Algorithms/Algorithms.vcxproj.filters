@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="2508">
+      <UniqueIdentifier>{8d37a22d-765a-412c-9bab-1a644546d32f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="250825.cpp">
+      <Filter>2508</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
