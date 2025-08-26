@@ -9,5 +9,8 @@
     <ClCompile Include="250825.cpp">
       <Filter>2508</Filter>
     </ClCompile>
+    <ClCompile Include="250827.cpp">
+      <Filter>2508</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
