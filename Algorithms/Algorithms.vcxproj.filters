@@ -12,5 +12,11 @@
     <ClCompile Include="250827.cpp">
       <Filter>2508</Filter>
     </ClCompile>
+    <ClCompile Include="250829.cpp">
+      <Filter>2508</Filter>
+    </ClCompile>
+    <ClCompile Include="250831.cpp">
+      <Filter>2508</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
